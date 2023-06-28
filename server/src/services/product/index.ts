@@ -1,0 +1,6 @@
+export { default as addProducts } from './add_products.service'
+export { default as createProduct } from './create_product.service'
+export { default as deleteProduct } from './delete_product.service'
+export { default as getAllProducts } from './get_all_products.service'
+export { default as getProduct } from './get_product.service'
+export { default as removeProducts } from './remove_products.service'
